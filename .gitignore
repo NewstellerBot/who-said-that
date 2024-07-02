@@ -1,0 +1,6 @@
+# data 
+human.json
+data.json
+
+# dotenv environment variables file
+.env
